@@ -4,9 +4,19 @@ import java.awt.*;
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Date;
 
 public class Metodos {
+
+
+
+    public ArrayList<ClaseDatos> Añadir (ArrayList<ClaseDatos> Registro){
+    Registro = new ArrayList();
+
+        return Registro;
+    }
+
 
     public void Fecha (){
         Date fecha = new Date();
