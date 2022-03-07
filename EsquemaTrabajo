@@ -1,0 +1,10 @@
+Registro Hotel:
+-Datos: Nombre, tlf, email, dni, fechaEntrada, FechaSalida.
+Librería con metodos para añadir los datos.
+
+
+-Main con el menú de distintas opciones.
+Añadir, Borrar, Actualizar, mostrar registro(abrir fichero), editar.
+
+
+-Clase con los metodos del menú.
