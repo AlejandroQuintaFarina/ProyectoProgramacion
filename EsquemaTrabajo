@@ -1,5 +1,5 @@
 Registro Hotel:
--Datos: Nombre, tlf, email, dni, fechaEntrada, FechaSalida.
+-Datos: Nombre, tlf, email, dni,habitación , fechaEntrada, FechaSalida(LocalDateTime.now()).
 Librería con metodos para añadir los datos.
 
 
