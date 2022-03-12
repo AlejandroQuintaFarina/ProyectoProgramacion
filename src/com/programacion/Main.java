@@ -9,6 +9,8 @@ public class Main {
       //  ArrayList Regist = new ArrayList();
 	Metodos met = new Metodos();
     met.Fecha();
-    //met.abrirarchivo();
+    met.añadirDatos("Ticket.txt");
+    met.abrirArchivo("Ticket.txt");
+
     }
 }

@@ -3,13 +3,13 @@ package com.programacion;
 import java.util.Date;
 
 public class ClaseDatos {
-    String Nombre;
-    String tlf;
-    String dni;
-    String email;
-    String habitacion;
-    Date fechaI;
-    Date fechaS;
+    private String Nombre;
+    private String tlf;
+    private String dni;
+    private String email;
+    private String habitacion;
+    private Date fechaI;
+    private Date fechaS;
 
     public ClaseDatos() {
     }
